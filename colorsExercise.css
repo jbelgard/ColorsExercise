@@ -1,0 +1,47 @@
+h1 {
+    color: blue;
+    background-color: red;
+}
+
+h2 {
+    color: #23EF01;
+    background-color: orange;
+}
+
+h3 {
+    color: #f30;
+    background-color: yellow;
+}
+
+h4 {
+    color: #00FF00FF;
+    background-color: green;
+}
+
+h5 {
+    color: #F007;
+    background-color: blue;
+
+}
+
+h6 {
+    color: rgb(24, 14, 114);
+    background-color: indigo;
+}
+
+p {
+    color: rgb(115, 33, 6, 1);
+    background-color: violet;
+}
+
+.one {
+    color: hotpink;
+}
+
+.three {
+    background-color: peachpuff;
+}
+
+.one, .three {
+    border: 5px solid green;
+}
